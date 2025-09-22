@@ -1,0 +1,2 @@
+- Git tracks changes
+- Branching allows isolated work
