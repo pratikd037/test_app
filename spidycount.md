@@ -1,13 +1,14 @@
 # SpidyCount Report
 
 **Pull Request:** #5
-**Generated:** 2025-12-08T11:03:18.145Z
-**Total Lines:** 0
+**Generated:** 2025-12-08T11:03:22.921Z
+**Total Lines:** 15
 
 ## File Details
 
 | File | Lines |
 |------|-------|
+| `spidycount.md` | 15 |
 | `test1.md` | 0 |
 
 ---
